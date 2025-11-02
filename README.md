@@ -28,7 +28,7 @@ README – Symmetric Bilingual + Clean Stats (Full, no Streak section)
 <tr>
 <td width="50%" valign="top" style="vertical-align:top; padding: 18px 20px; line-height: 1.6;">
 
-<p>안녕하세요! 프론트엔드 개발과 인공지능에 관심이 있습니다.</p>
+<p>프론트엔드 개발과 인공지능에 관심이 있습니다.</p>
 
 <h4><b>핵심 역량</b></h4>
 <ul style="margin:6px 0 14px 18px;">
