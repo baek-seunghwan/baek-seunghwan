@@ -165,7 +165,6 @@ AI/ML 파이프라인 고도화<br>
 
 <div align="center" style="margin-top: 12px;">
   <a href="https://github.com/hwany01/seunghwan">
-    <img src="https://img.shields.io/github/stars/hwany01/seunghwan?style=social" alt="Repo Stars">
   </a>
   <br/>
 <b>Thanks for visiting!</b>
