@@ -154,12 +154,6 @@ GitHub 기술스택<br>
 AI/ML 파이프라인 고도화<br>
 </div>
 
-## 명언 | Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&v=1" alt="Random Dev Quote"/>
-</p>
-
 ---
 
 <!-- Snake: GitHub contribution graph animation -->
