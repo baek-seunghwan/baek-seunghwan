@@ -12,8 +12,6 @@ README – Symmetric Bilingual + Clean Stats (Full, no Streak section)
 
 <div align="center" style="margin-top: 6px;">
   <img src="https://komarev.com/ghpvc/?username=hwany01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <a href="https://github.com/hwany01"><img src="https://img.shields.io/github/followers/hwany01?label=Followers&style=social" alt="GitHub followers"></a>
-  <a href="https://github.com/hwany01"><img src="https://img.shields.io/github/stars/hwany01?label=Stars&style=social" alt="GitHub stars"></a>
 </div>
 
 ---
