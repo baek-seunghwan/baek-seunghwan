@@ -11,7 +11,7 @@ README – Symmetric Bilingual + Clean Stats (Full, no Streak section)
 <!-- Badges -->
 
 <div align="center" style="margin-top: 6px;">
-  <img src="https://komarev.com/ghpvc/?username=hwany01&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=baek-seunghwan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </div>
 
 ---
@@ -109,37 +109,35 @@ README – Symmetric Bilingual + Clean Stats (Full, no Streak section)
 
 ## 연락처 및 SNS | Contact & Social
 
-<a href="https://www.linkedin.com/in/seunghwan0755"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://kaggle.com/baekseunghwan0755"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a> <a href="https://instagram.com/hwany01"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/seunghwan0755"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://kaggle.com/baekseunghwan0755"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a> <a href="https://instagram.com/baek-seunghwan"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 
-<a href="mailto:samdwich0725@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://hwany01.github.io/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a> <a href="https://velog.io/@hwany01"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
+<a href="mailto:samdwich0725@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://baek-seunghwan.github.io/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"></a> <a href="https://velog.io/@baek-seunghwan"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"></a>
 
 ---
 
 ## GitHub 통계 | GitHub Stats
-
-<!-- Readme Stats + Top Languages (above graph) -->
 
 <div align="center" style="max-width: 900px; margin: 0 auto;">
 
   <div style="margin-top: 14px;">
     <picture>
       <source media="(prefers-color-scheme: dark)"
-              srcset="https://github-readme-stats.vercel.app/api?username=hwany01&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&card_width=420" />
-      <img alt="hwany01's GitHub stats"
-           src="https://github-readme-stats.vercel.app/api?username=hwany01&show_icons=true&rank_icon=github&hide_border=true&card_width=420" />
+              srcset="https://github-readme-stats.vercel.app/api?username=baek-seunghwan&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&card_width=420" />
+      <img alt="baek-seunghwan's GitHub stats"
+           src="https://github-readme-stats.vercel.app/api?username=baek-seunghwan&show_icons=true&rank_icon=github&hide_border=true&card_width=420" />
     </picture>
   </div>
 
   <div style="margin-top: 8px;">
     <picture>
       <source media="(prefers-color-scheme: dark)"
-              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=hwany01&layout=compact&theme=tokyonight&hide_border=true&card_width=420" />
+              srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=baek-seunghwan&layout=compact&theme=tokyonight&hide_border=true&card_width=420" />
       <img alt="Top Languages"
-           src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwany01&layout=compact&hide_border=true&card_width=420" />
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=baek-seunghwan&layout=compact&hide_border=true&card_width=420" />
     </picture>
   </div>
 
-  <img alt="GitHub Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=hwany01&area=true&hide_border=true&bg_color=ffffff&title_color=111827&color=374151&line=3b82f6&point=1f6feb&area_color=93c5fd&custom_title=Seunghwan%20Baek's%20Contribution%20Graph&v=2" width="100%" />
+  <img alt="GitHub Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=baek-seunghwan&area=true&hide_border=true&bg_color=ffffff&title_color=111827&color=374151&line=3b82f6&point=1f6feb&area_color=93c5fd&custom_title=Seunghwan%20Baek's%20Contribution%20Graph&v=2" width="100%" />
 </div>
 
 ---
@@ -159,12 +157,12 @@ AI/ML 파이프라인 고도화<br>
 <!-- Snake: GitHub contribution graph animation -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hwany01/hwany01/main/dist/snake-dark.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/hwany01/hwany01/main/dist/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/baek-seunghwan/baek-seunghwan/main/dist/snake-dark.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/baek-seunghwan/baek-seunghwan/main/dist/snake.svg" />
 </picture>
 
 <div align="center" style="margin-top: 12px;">
-  <a href="https://github.com/hwany01/seunghwan">
+  <a href="https://github.com/baek-seunghwan/seunghwan">
   </a>
   <br/>
 <b>Thanks for visiting!</b>
