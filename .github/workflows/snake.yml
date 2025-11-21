@@ -1,7 +1,10 @@
 name: Generate contribution snake
 
+
 on:
-  workflow_dispatch:        # 수동 실행 가능
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -21,7 +24,7 @@ jobs:
         id: snake
         uses: Platane/snk@v3
         with:
-          github_user_name: hwany01
+          github_user_name: baek-seunghwan
           outputs: |
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
