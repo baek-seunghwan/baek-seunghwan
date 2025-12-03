@@ -147,7 +147,7 @@ README – Symmetric Bilingual + Clean Stats (Full, no Streak section)
 <div align="center">
 
 X3D<br>
-BAEKJOON<br>
+BAEKJOON python, c언어<br>
 GitHub 기술스택<br>
 AI/ML 파이프라인 고도화<br>
 </div>
