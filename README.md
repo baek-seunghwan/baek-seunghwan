@@ -142,16 +142,6 @@ README – Symmetric Bilingual + Clean Stats (Full, no Streak section)
 
 ---
 
-## 현재 집중하고 있는 것 | Currently Focusing On
-
-<div align="center">
-
-X3D<br>
-BAEKJOON python, c언어<br>
-AI/ML 파이프라인 고도화<br>
-</div>
-
----
 
 <!-- Snake: GitHub contribution graph animation -->
 
